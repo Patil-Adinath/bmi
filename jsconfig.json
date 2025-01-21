@@ -1,0 +1,19 @@
+{
+  "typeAcquisition": {
+    "include": [
+      "jest",
+      "babel__core",
+      "babel__generator",
+      "babel__template",
+      "babel__traverse",
+      "eslint-visitor-keys",
+      "istanbul-lib-coverage",
+      "istanbul-lib-report",
+      "istanbul-reports",
+      "json-schema",
+      "node",
+      "sizzle",
+      "stack-utils"
+    ]
+  }
+}
